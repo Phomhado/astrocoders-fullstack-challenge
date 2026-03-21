@@ -7,4 +7,4 @@ The app should also be able to display the current balance or a given user and e
 ## Stack used
 
 I will use React with Vite and styled-components for the Frontend.
-And C++ with sqlite on the backend. I want to practice my C++ and this project will be a fun way on doing it
+And C++ with sqlite on the backend. I want to practice my C++ skills and this project will be a fun way to do it
